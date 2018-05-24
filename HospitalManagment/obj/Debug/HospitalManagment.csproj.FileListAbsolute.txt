@@ -1,0 +1,103 @@
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Bill.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Bill_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Doctor.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Doctor_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Login.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Login_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Medicine.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Medicine_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Patient.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Patient_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Reciption.mdf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\Reciption_log.ldf
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Bill_Info.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Doctor.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Login.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.MedicineInfo.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Patient.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Properties.Resources.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Reciption_info.resources
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.GenerateResource.Cache
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
+C:\Users\Misha\Documents\Visual Studio 2015\Projects\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Main_Menu.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Bill.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Bill_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Doctor.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Doctor_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Login.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Login_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Medicine.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Medicine_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Patient.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Patient_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Reciption.mdf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\bin\Debug\Reciption_log.ldf
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Bill_Info.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Doctor.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Login.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Main_Menu.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.MedicineInfo.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Patient.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Properties.Resources.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Reciption_info.resources
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.GenerateResource.Cache
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+C:\Users\Khalid_Yusuf\Desktop\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Bill.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Bill_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Doctor.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Doctor_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Login.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Login_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Medicine.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Medicine_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Patient.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Patient_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Reciption.mdf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\Reciption_log.ldf
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Bill_Info.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Doctor.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Login.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Main_Menu.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.MedicineInfo.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Patient.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Properties.Resources.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Reciption_info.resources
+C:\Users\Misha\Desktop\lkjlkjkl\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.GenerateResource.Cache
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.exe
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.pdb
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Bill.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Bill_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Doctor.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Doctor_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Login.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Login_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Medicine.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Medicine_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Patient.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Patient_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Reciption.mdf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\Reciption_log.ldf
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.exe
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\bin\Debug\HospitalManagment.pdb
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csprojResolveAssemblyReference.cache
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Bill_Info.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Doctor.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Login.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Main_Menu.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.MedicineInfo.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Patient.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Properties.Resources.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Reciption_info.resources
+D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.GenerateResource.Cache
