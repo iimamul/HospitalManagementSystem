@@ -101,3 +101,5 @@ D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagm
 D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Properties.Resources.resources
 D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.Reciption_info.resources
 D:\STUDY\DB Project\HospitalManagment\HospitalManagment\obj\Debug\HospitalManagment.csproj.GenerateResource.Cache
+D:\Projects\git\HospitalManagementSystem\HospitalManagment\obj\Debug\HospitalManagment.exe
+D:\Projects\git\HospitalManagementSystem\HospitalManagment\obj\Debug\HospitalManagment.pdb
